@@ -1,0 +1,1 @@
+pyinstaller --onefile --icon=AU_Diff_Table.ico main.py
