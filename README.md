@@ -1,0 +1,2 @@
+# UndertaleAU_Diff_Table_Client
+Undertale AUの難易度表を使いやすくするためのクライアントです
